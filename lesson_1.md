@@ -53,7 +53,7 @@
 - 理解
 - *She grasped my meaning at once*
 
-encompass /ɛnˈkʌmpəs/ v.
+**encompass** /ɛnˈkʌmpəs/ v.
 - to include; contain. 
 - 组成
 - *Our history book encompasses all the important events in American history since 1607.*
