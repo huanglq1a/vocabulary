@@ -1,7 +1,7 @@
 **Paradox** /'pærədɑks/ n. 
-    -似非而是的论点；
-	-A seemingly contradictory statement that may nonetheless be true.
-    -*the paradox that standing is more tiring than walking*
+    - 似非而是的论点；
+	- A seemingly contradictory statement that may nonetheless be true.
+    -* the paradox that standing is more tiring than walking*
 
 **Acquisition** n. /ˌækwɪ'zɪʃən/ 
     -获得, 得到
