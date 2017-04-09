@@ -91,7 +91,7 @@
  **torment**/'tɔrmɛnt/ v.
  - To cause to undergo great physical pain or mental anguish.
  - 折磨，使痛苦；纠缠，作弄
- - * Severe headaches tormented him.*
+ - *Severe headaches tormented him.*
  
  **contend**/kən'tɛnd/ v. 
 - to argue; dispute
