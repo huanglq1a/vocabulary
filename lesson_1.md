@@ -83,8 +83,50 @@
 -微妙的
 - *a subtle smile*
 
-**pervade** 
+**pervade** /pɚ'ved/ v.
+- to go or spread throughout; be throughout. 
+- 遍及;弥漫
+- *The odor of pines pervades the air.*
 
+ **torment**/'tɔrmɛnt/ v.
+ - To cause to undergo great physical pain or mental anguish.
+ - 折磨，使痛苦；纠缠，作弄
+ - * Severe headaches tormented him.*
+ 
+ **contend**/kən'tɛnd/ v. 
+- to argue; dispute
+- 争论
+- *The sisters contended about silly trifles*
+
+**demonstrably**/'demənstrəbli/ adv
+-  in a manner that can be proved; clearly. 
+- 确然
+- *This kind of program is a luxury this country demonstrably cannot afford (Wall Street Journal).*
+
+**commensurate**/kə'mɛnʃərət/ adj.
+-  in the proper proportion; proportionate. 
+- 成比例的
+- *He has sent out over 100 letters in an effort to obtain technical employment commensurate with his background and experience.*
+
+**lacunae(复数)**  /lə'kju:ni:/ n./lə'kjʊnə/ lacuna
+- An empty space or a missing part; a gap
+- An empty space or a missing part; a gap
+- *the journal has filled a lacuna in Middle Eastern studies.*
+
+**darkling** /'dɑrklɪŋ/ adj.
+- Dark; dim.
+- 黑暗中的
+- *the darkling sky*
+
+ **illusion** /ɪ'luʒn/ n.
+ - An erroneous perception of reality;An erroneous concept or belief.
+ - 错觉, 幻想, 错误观念
+ - *The old man's ruddy complexion gave an illusion of good health.
+ 
+ **metaphor**/'mɛtəfɚ/ n.
+ - something concrete used to represent an idea, quality, or condition; symbol. 
+ - 隐喻
+ - *In poetry the rose is often a metaphor for love.*
 
 
 
