@@ -105,14 +105,13 @@
 
 **entail**/ɪn'tel/ v.
 - To have, impose, or require as a necessary accompaniment or consequence
--  使…成为必要, 需要
-- * Owning an automobile entailed greater expense than he had expected.* 
+- 使…成为必要, 需要
+- *Owning an automobile entailed greater expense than he had expected.* 
 
 
 
 
 
-- 
 
 
 
