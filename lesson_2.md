@@ -50,7 +50,74 @@
 
 **tacitly**/'tæsitli/  adv
 -  Not spoken
--
+- 隐含的
+- *the tacitly understood limits*
+
+**sheer** /ʃɪr/ adj.
+- Completely such, without qualification or exception
+- 完全的
+- *sheer stupidity*
+
+**graciousness** n.ˈ/ɡreʃəsness/ 
+- Characterized by kindness and warm courtes y
+- 亲切;和蔼
+- *an act of sheer graciousness*
+
+**presumably**  /pri'zju:-məbli,pri:-/  adv.
+-  That can be presumed or taken for granted; reasonable as a supposition
+- 理所应当
+- *the earring was presumably real gold.*
+
+**sentimentalize** /ˌsɛntɪ'mɛntəlaɪz/ v.
+- To imbue or regard with sentiment; be sentimental about
+- 伤感
+- *sentimentalize one's college days*
+
+**cloy**/klɔɪ/ v.
+- To cause distaste or disgust by supplying with too much of something originally pleasant, especially something rich or sweet; surfeit.
+- 生厌
+- *Cloying speech or sentiment.*
+
+**exert**/ɪɡ'zɝt/ v.
+-  To put to use or effect; put forth
+- 运用，发挥
+- *exerted all my strength to move the box.*
+
+**atheist** /'eθɪɪst/ n.
+-  One who disbelieves or denies the existence of God or gods.
+- 无神论者
+- *She was an atheist but now she says she’s seen the light.*
+
+**imprisonment**  /ɪm'prɪznmənt/ n.
+-  To put in or as if in prison; confine.
+- 关押，监管
+- *the imprisonment of the past*
+
+**regiment**/'rɛdʒɪmənt/ v.
+- To form into a regiment.
+-  把…编成团
+- *t’s a highly regimented treatment, consisting of.*
+
+**mores** /'mɔrez/ pl.n. 
+- The accepted traditional customs and usages of a particular social group
+- 习惯，习俗；道德观念；风俗
+- *observing conventional sexual mores in speech or behavior*
+
+**entail**/ɪn'tel/ v.
+- To have, impose, or require as a necessary accompaniment or consequence
+-  使…成为必要, 需要
+- * Owning an automobile entailed greater expense than he had expected.* 
+
+
+
+
+
+- 
+
+
+
+
+
 
 
 
