@@ -48,6 +48,10 @@
 - 塞住
 - *He quickly plugged the drain to keep the bathwater from running out.*
 
+**tacitly**/'tæsitli/  adv
+-  Not spoken
+-
+
 
 
 
