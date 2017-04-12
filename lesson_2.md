@@ -108,7 +108,8 @@
 - 使…成为必要, 需要
 - *Owning an automobile entailed greater expense than he had expected.* 
 
-
+ pandoc lesson_2.md -o lesson_2.doc
+  
 
 
 
