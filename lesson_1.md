@@ -128,5 +128,5 @@
  - 隐喻
  - *In poetry the rose is often a metaphor for love.*
 
-pandoc demo.md -o demo.doc
+  pandoc lesson_1.md -o lesson_1.doc
 
